@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.jumbotron{
+
+	background-color: #9575cd;
+	color: white;
+	margin-bottom: 0px;
+}
+.footer{
+	background-color: #d1c4e9;
+}
+
+.history{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.about{
+	padding-left: 0px;
+}
+
+.corlea{
+	margin-top: 50px;
+}
