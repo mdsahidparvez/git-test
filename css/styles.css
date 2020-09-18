@@ -1,6 +1,4 @@
 *{
-	margin: 0;
-	padding: 0;
 	box-sizing: border-box;
 }
 
@@ -8,7 +6,7 @@
 
 	background-color: #9575cd;
 	color: white;
-	margin-bottom: 0px;
+	margin-bottom: 20px;
 }
 .footer{
 	background-color: #d1c4e9;
@@ -28,8 +26,10 @@
 
 body{
 	padding-top: 50px;
-	z-index: 0;
 }
 .navbar-dark{
-	background-color: #512DA8;;
+	background-color: #512DA8;
+}
+.detail{
+	margin-bottom: 70px;
 }
